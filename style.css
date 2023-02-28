@@ -1,0 +1,24 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
+
+.note {
+    color: black;
+    font-size: 15px;
+}
+
+.speed_div {
+    float: left;
+}
+
+.song_button {
+    font-size: 25px;
+    width: 150px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 5px solid white;
+}
